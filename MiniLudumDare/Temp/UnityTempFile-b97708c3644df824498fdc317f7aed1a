@@ -1,0 +1,239 @@
+-debug
+-target:library
+-nowarn:0169
+-langversion:4
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp-Editor-firstpass.dll
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Advertisements/Editor/UnityEditor.Advertisements.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/nunit.framework.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/EditorTestsRunner/Editor/UnityEditor.EditorTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/Editor/UnityEditor.UI.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/Editor/UnityEditor.Networking.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/Editor/UnityEditor.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/PlaymodeTestsRunner/UnityEngine.PlaymodeTestsRunner.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/TreeEditor/Editor/UnityEditor.TreeEditor.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/UnityEngine.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityAnalytics/Editor/UnityEditor.Analytics.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/Editor/UnityEditor.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityHoloLens/RuntimeEditor/UnityEngine.HoloLens.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/Editor/UnityEditor.VR.dll"
+-r:"C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/UnityVR/RuntimeEditor/UnityEngine.VR.dll"
+-r:Assets/PlayMaker/ConditionalExpression.dll
+-r:Assets/PlayMaker/Editor/ConditionalExpressionEditor.dll
+-r:Assets/PlayMaker/Editor/PlayMakerEditor.dll
+-r:Assets/PlayMaker/Editor/PlayMakerEditorResources.dll
+-r:"Assets/PlayMaker Utils/External Libraries/Rotorz/Reorderable List Field/Editor/Editor.ReorderableList.dll"
+-r:Assets/Plugins/PlayMaker/PlayMaker.dll
+-r:"C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-r:"C:/Program Files/Unity/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll"
+-r:"C:/Program Files/Unity/Editor/Data/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll"
+-r:"C:/Program Files (x86)/Microsoft Visual Studio Tools for Unity/2015/Editor/SyntaxTree.VisualStudio.Unity.Bridge.dll"
+-define:UNITY_5_3_OR_NEWER
+-define:UNITY_5_4_OR_NEWER
+-define:UNITY_5_5_OR_NEWER
+-define:UNITY_5_5_1
+-define:UNITY_5_5
+-define:UNITY_5
+-define:ENABLE_AUDIO
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_GENERICS
+-define:ENABLE_MICROPHONE
+-define:ENABLE_MULTIPLE_DISPLAYS
+-define:ENABLE_PHYSICS
+-define:ENABLE_SPRITERENDERER_FLIPPING
+-define:ENABLE_SPRITES
+-define:ENABLE_TERRAIN
+-define:ENABLE_RAKNET
+-define:ENABLE_UNET
+-define:ENABLE_LZMA
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_WEBCAM
+-define:ENABLE_WWW
+-define:ENABLE_CLOUD_SERVICES_COLLAB
+-define:ENABLE_CLOUD_SERVICES_ADS
+-define:ENABLE_CLOUD_HUB
+-define:ENABLE_CLOUD_PROJECT_ID
+-define:ENABLE_CLOUD_SERVICES_UNET
+-define:ENABLE_CLOUD_SERVICES_BUILD
+-define:ENABLE_CLOUD_LICENSE
+-define:ENABLE_EDITOR_METRICS
+-define:ENABLE_EDITOR_METRICS_CACHING
+-define:INCLUDE_DYNAMIC_GI
+-define:INCLUDE_GI
+-define:PLATFORM_SUPPORTS_MONO
+-define:RENDER_SOFTWARE_CURSOR
+-define:INCLUDE_PUBNUB
+-define:ENABLE_PLAYMODE_TESTS_RUNNER
+-define:ENABLE_SCRIPTING_NEW_CSHARP_COMPILER
+-define:UNITY_STANDALONE_WIN
+-define:UNITY_STANDALONE
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_RUNTIME_GI
+-define:ENABLE_MOVIES
+-define:ENABLE_NETWORK
+-define:ENABLE_CRUNCH_TEXTURE_COMPRESSION
+-define:ENABLE_UNITYWEBREQUEST
+-define:ENABLE_CLOUD_SERVICES
+-define:ENABLE_CLOUD_SERVICES_ANALYTICS
+-define:ENABLE_CLOUD_SERVICES_PURCHASING
+-define:ENABLE_CLOUD_SERVICES_CRASH_REPORTING
+-define:ENABLE_EVENT_QUEUE
+-define:ENABLE_CLUSTERINPUT
+-define:ENABLE_VIDEO
+-define:ENABLE_VR
+-define:ENABLE_WEBSOCKET_HOST
+-define:ENABLE_MONO
+-define:ENABLE_PROFILER
+-define:DEBUG
+-define:TRACE
+-define:UNITY_ASSERTIONS
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_64
+-define:UNITY_EDITOR_WIN
+-define:ENABLE_VSTU
+-define:PLAYMAKER
+-define:PLAYMAKER_1_8
+-define:PLAYMAKER_1_8_3
+-define:PLAYMAKER_1_8_OR_NEWER
+-define:CROSS_PLATFORM_INPUT
+"Assets/PlayMaker ArrayMaker/Actions/ArrayList/Editor/ArrayListAddCustomEditor.cs"
+"Assets/PlayMaker ArrayMaker/Actions/ArrayList/Editor/ArrayListInsertCustomEditor.cs"
+"Assets/PlayMaker ArrayMaker/Actions/Editor/PlayMakerArrayListProxyObjectPropertyDrawer.cs"
+"Assets/PlayMaker ArrayMaker/Actions/HashTable/Editor/HashTableAddCustomEditor.cs"
+"Assets/PlayMaker ArrayMaker/Actions/HashTable/Editor/HashTableSetCustomEditor.cs"
+"Assets/PlayMaker ArrayMaker/Addons/Custom/GameObject/Editor/ArrayListSendEventToGameObjectsCustomEditor.cs"
+"Assets/PlayMaker ArrayMaker/__internal__/Editor/PlayMakerArrayListProxyInspector.cs"
+"Assets/PlayMaker ArrayMaker/__internal__/Editor/PlayMakerCollectionProxyInspector.cs"
+"Assets/PlayMaker ArrayMaker/__internal__/Editor/PlayMakerHashTableProxyInspector.cs"
+"Assets/PlayMaker Utils/Components/Editor/CommentInspector.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerEditorUtils.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Events.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Reflection.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerInspectorUtils_Variables.cs"
+"Assets/PlayMaker Utils/Editor/PlayMakerStats.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/ButtonAttribute/Editor/ButtonDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/Editor/PlayMakerPropertyDrawerBaseClass.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/Owner/Editor/OwnerPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerEvent/Editor/PlayMakerEventPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerEventTarget/Editor/PlayMakerEventTargetPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerFsmTarget/Editor/PlayMakerFsmTargetPropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerFsmVariable/Editor/PlayMakerFsmVariablePropertyDrawer.cs"
+"Assets/PlayMaker Utils/PropertyDrawers/PlayMakerFsmVariableTarget/Editor/PlayMakerFsmVariableTargetPropertyDrawer.cs"
+"Assets/PlayMaker Utils/Wizards/EnumCreator/Editor/EnumCreator.cs"
+"Assets/PlayMaker Utils/Wizards/EnumCreator/Editor/EnumCreatorWizard.cs"
+"Assets/PlayMaker Utils/Wizards/EnumCreator/Editor/EnumFileFinder.cs"
+"Assets/PlayMaker Utils/Wizards/LinkerWizard/Editor/LinkerDataCustomInspector.cs"
+"Assets/PlayMaker Utils/Wizards/LinkerWizard/Editor/LinkerEditorChecks.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/EventProxyFileFinder.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/PlayMakerEventProxyCreator.cs"
+"Assets/PlayMaker Utils/Wizards/PlayMakerEventProxy/Editor/PlayMakerEventProxyCreatorWizard.cs"
+Assets/PlayMaker/Actions/Animator/Editor/BaseClasses/OnAnimatorUpdateActionEditorBase.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorAnimatorRootActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorBoneGameObjectActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorBoolActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentStateInfoActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentStateInfoIsNameActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentStateInfoIsTagActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentTransitionInfoActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentTransitionInfoIsNameActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorCurrentTransitionInfoIsUserNameActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorDeltaActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorFloatActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorGravityWeightActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorIKGoalActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorIntActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorIsLayerInTransitionActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorIsMatchingTargetActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorLayerWeightActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorNextStateInfoActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorPivotActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorSpeedActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/GetAnimatorTargetActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/SetAnimatorBoolActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/SetAnimatorFloatActionEditor.cs
+Assets/PlayMaker/Actions/Animator/Editor/SetAnimatorIntActionEditor.cs
+Assets/PlayMaker/Actions/Editor/CallMethodEditor.cs
+Assets/PlayMaker/Actions/Editor/GetDistanceEditor.cs
+Assets/PlayMaker/Actions/Editor/LookAtActionEditor.cs
+Assets/PlayMaker/Actions/Editor/MoveTowardsActionEditor.cs
+Assets/PlayMaker/Actions/Editor/SetCameraFOVActionEditor.cs
+Assets/PlayMaker/Actions/Editor/SetPropertyEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/GetQuaternionEulerAnglesCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/GetQuaternionFromRotationCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/GetQuaternionMultipliedByQuaternionCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/GetQuaternionMultipliedByVectorCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionAngleAxisCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionCustomEditorBase.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionEulerCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionInverseCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionLerpCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionLookRotationCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionLowPassFilterCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionRotateTowardsCustomEditor.cs
+Assets/PlayMaker/Actions/Quaternion/Editor/QuaternionSlerpCustomEditor.cs
+Assets/PlayMaker/Editor/AboutWindow.cs
+Assets/PlayMaker/Editor/AssetGUIDs.cs
+Assets/PlayMaker/Editor/ContextToolWindow.cs
+Assets/PlayMaker/Editor/EditorStartupPrefs.cs
+Assets/PlayMaker/Editor/FsmActionWindow.cs
+Assets/PlayMaker/Editor/FsmComponentInspector.cs
+Assets/PlayMaker/Editor/FsmEditorHelpers.cs
+Assets/PlayMaker/Editor/FsmEditorWindow.cs
+Assets/PlayMaker/Editor/FsmErrorWindow.cs
+Assets/PlayMaker/Editor/FsmEventsWindow.cs
+Assets/PlayMaker/Editor/FsmGlobalsWindow.cs
+Assets/PlayMaker/Editor/FsmLogWindow.cs
+Assets/PlayMaker/Editor/FsmSelectorWindow.cs
+Assets/PlayMaker/Editor/FsmStateWindow.cs
+Assets/PlayMaker/Editor/FsmTemplate.cs
+Assets/PlayMaker/Editor/FsmTemplateEditor.cs
+Assets/PlayMaker/Editor/FsmTemplateWindow.cs
+Assets/PlayMaker/Editor/FsmTimelineWindow.cs
+Assets/PlayMaker/Editor/PlayMakerAutoUpdater.cs
+Assets/PlayMaker/Editor/PlayMakerBugReportWindow.cs
+Assets/PlayMaker/Editor/PlayMakerBuildCallbacks.cs
+Assets/PlayMaker/Editor/PlayMakerCustomActionWizard.cs
+Assets/PlayMaker/Editor/PlayMakerDefines.cs
+Assets/PlayMaker/Editor/PlayMakerEditorStartup.cs
+Assets/PlayMaker/Editor/PlayMakerGUIInspector.cs
+Assets/PlayMaker/Editor/PlayMakerGlobalsInspector.cs
+Assets/PlayMaker/Editor/PlayMakerMainMenu.cs
+Assets/PlayMaker/Editor/PlayMakerProjectTools.cs
+Assets/PlayMaker/Editor/PlayMakerUpdater.cs
+Assets/PlayMaker/Editor/PlayMakerUpgradeGuide.cs
+Assets/PlayMaker/Editor/PlayMakerUpgradeTools.cs
+Assets/PlayMaker/Editor/PlayMakerWelcomeWindow.cs
+Assets/PlayMaker/Editor/PreUpdateChecker.cs
+Assets/PlayMaker/Editor/ReportWindow.cs
+Assets/iTween/PlayMaker/Editor/iTweenMoveToActionEditor.cs
+Assets/net.fabrejean/Editor/Common/Utils.cs
+Assets/net.fabrejean/Editor/Common/VersionInfo.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/Escapes.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkDownFileInspector.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkdownGUI.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/MarkdownParser.cs
+Assets/net.fabrejean/Editor/MarkDownSharp/ObjectInspector.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/EcosystemUtils.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/Item.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/ItemDocumentation.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Classes/WebImageManager.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/EcosystemBrowser.cs
+Assets/net.fabrejean/Editor/PlayMaker/Ecosystem/Tools/ProjectScanner/ProjectScanner.cs
+Assets/net.fabrejean/Editor/Plugins/EditorCoroutine.cs
+Assets/net.fabrejean/Editor/Plugins/HttpWrapper.cs
+Assets/net.fabrejean/Editor/Plugins/JSON.cs
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Runtime.Serialization.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\System.Xml.Linq.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\UnityScript.Lang.dll"
+-r:"C:\Program Files\Unity\Editor\Data\MonoBleedingEdge\lib\mono\2.0-api\Boo.Lang.dll"
+-sdk:2.0

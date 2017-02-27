@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: b5dc3fe7211d90a4ca70b6f651d88716
+timeCreated: 1487722888
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: polySurface17_polySurface2_pCylinder1_polySurface18_polySurface21
+    100002: polySurface17_polySurface2_pCylinder1_polySurface20_polySurface18_polySurface22
+    100004: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface24
+    100006: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface25
+    100008: polySurface17_polySurface2_pCylinder1_polySurface26_polySurface23_polySurface20_polySurface18_polySurface27
+    100010: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface29
+    100012: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface30
+    100014: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface32
+    100016: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface34_polySurface35
+    100018: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface36_polySurface34
+    100020: polySurface17_polySurface2_pCylinder1_polySurface33_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18
+    100022: polySurface19_polySurface17_polySurface2_pCylinder1_polySurface38
+    100024: polySurface2_pCylinder1_polySurface16
+    100026: polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface39
+    100028: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface41_polySurface44
+    100030: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface43_polySurface41
+    100032: polySurface42_polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1
+    100034: //RootNode
+    400000: polySurface17_polySurface2_pCylinder1_polySurface18_polySurface21
+    400002: polySurface17_polySurface2_pCylinder1_polySurface20_polySurface18_polySurface22
+    400004: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface24
+    400006: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface25
+    400008: polySurface17_polySurface2_pCylinder1_polySurface26_polySurface23_polySurface20_polySurface18_polySurface27
+    400010: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface29
+    400012: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface30
+    400014: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface32
+    400016: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface34_polySurface35
+    400018: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface36_polySurface34
+    400020: polySurface17_polySurface2_pCylinder1_polySurface33_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18
+    400022: polySurface19_polySurface17_polySurface2_pCylinder1_polySurface38
+    400024: polySurface2_pCylinder1_polySurface16
+    400026: polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface39
+    400028: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface41_polySurface44
+    400030: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface43_polySurface41
+    400032: polySurface42_polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1
+    400034: //RootNode
+    2300000: polySurface17_polySurface2_pCylinder1_polySurface18_polySurface21
+    2300002: polySurface17_polySurface2_pCylinder1_polySurface20_polySurface18_polySurface22
+    2300004: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface24
+    2300006: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface25
+    2300008: polySurface17_polySurface2_pCylinder1_polySurface26_polySurface23_polySurface20_polySurface18_polySurface27
+    2300010: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface29
+    2300012: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface30
+    2300014: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface32
+    2300016: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface34_polySurface35
+    2300018: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface36_polySurface34
+    2300020: polySurface17_polySurface2_pCylinder1_polySurface33_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18
+    2300022: polySurface19_polySurface17_polySurface2_pCylinder1_polySurface38
+    2300024: polySurface2_pCylinder1_polySurface16
+    2300026: polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface39
+    2300028: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface41_polySurface44
+    2300030: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface43_polySurface41
+    2300032: polySurface42_polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1
+    3300000: polySurface17_polySurface2_pCylinder1_polySurface18_polySurface21
+    3300002: polySurface17_polySurface2_pCylinder1_polySurface20_polySurface18_polySurface22
+    3300004: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface24
+    3300006: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface25
+    3300008: polySurface17_polySurface2_pCylinder1_polySurface26_polySurface23_polySurface20_polySurface18_polySurface27
+    3300010: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface29
+    3300012: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface30
+    3300014: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface32
+    3300016: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface34_polySurface35
+    3300018: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface36_polySurface34
+    3300020: polySurface17_polySurface2_pCylinder1_polySurface33_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18
+    3300022: polySurface19_polySurface17_polySurface2_pCylinder1_polySurface38
+    3300024: polySurface2_pCylinder1_polySurface16
+    3300026: polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface39
+    3300028: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface41_polySurface44
+    3300030: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface43_polySurface41
+    3300032: polySurface42_polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1
+    4300000: polySurface17_polySurface2_pCylinder1_polySurface18_polySurface21
+    4300002: polySurface17_polySurface2_pCylinder1_polySurface20_polySurface18_polySurface22
+    4300004: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface24
+    4300006: polySurface17_polySurface2_pCylinder1_polySurface23_polySurface20_polySurface18_polySurface25
+    4300008: polySurface17_polySurface2_pCylinder1_polySurface26_polySurface23_polySurface20_polySurface18_polySurface27
+    4300010: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface29
+    4300012: polySurface17_polySurface2_pCylinder1_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface30
+    4300014: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface32
+    4300016: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface34_polySurface35
+    4300018: polySurface17_polySurface2_pCylinder1_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18_polySurface36_polySurface34
+    4300020: polySurface17_polySurface2_pCylinder1_polySurface33_polySurface31_polySurface28_polySurface26_polySurface23_polySurface20_polySurface18
+    4300022: polySurface19_polySurface17_polySurface2_pCylinder1_polySurface38
+    4300024: polySurface2_pCylinder1_polySurface16
+    4300026: polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface39
+    4300028: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface41_polySurface44
+    4300030: polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1_polySurface43_polySurface41
+    4300032: polySurface42_polySurface40_polySurface37_polySurface19_polySurface17_polySurface2_pCylinder1
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
