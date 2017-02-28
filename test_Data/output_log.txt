@@ -1,0 +1,473 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.10.3496
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\ConditionalExpression.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\ConditionalExpression.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.925855 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 808 -> priority: 1 
+  Thread -> id: 1880 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 6.187416 ms
+FSM not Preprocessed: Player : vel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 7590.
+Total: 15.223791 ms (FindLiveObjects: 0.187904 ms CreateObjectMapping: 0.295277 ms MarkObjects: 13.461203 ms  DeleteObjects: 1.277037 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: b78 -> priority: 1 
+  Thread -> id: 2b0 -> priority: 1 
+  Thread -> id: 1d84 -> priority: 1 
+  Thread -> id: 15c4 -> priority: 1 
+  Thread -> id: 14b0 -> priority: 1 
+  Thread -> id: 1490 -> priority: 1 
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 4.024939 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 5977.
+Total: 13.007232 ms (FindLiveObjects: 0.152770 ms CreateObjectMapping: 0.292514 ms MarkObjects: 10.470527 ms  DeleteObjects: 2.091026 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: f48 -> priority: 1 
+  Thread -> id: 128c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.567184 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5946.
+Total: 34.156719 ms (FindLiveObjects: 0.532132 ms CreateObjectMapping: 0.962416 ms MarkObjects: 31.533558 ms  DeleteObjects: 1.127030 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.737010 ms
+FSM not Preprocessed: Player : vel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 7617.
+Total: 50.055542 ms (FindLiveObjects: 0.263302 ms CreateObjectMapping: 0.291725 ms MarkObjects: 47.858723 ms  DeleteObjects: 1.641398 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 177c -> priority: 1 
+  Thread -> id: 1784 -> priority: 1 
+  Thread -> id: c8 -> priority: 1 
+  Thread -> id: 9c8 -> priority: 1 
+  Thread -> id: c78 -> priority: 1 
+  Thread -> id: 1958 -> priority: 1 
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.154500 ms
+
+Unloading 169 unused Assets to reduce memory usage. Loaded Objects now: 5977.
+Total: 6.442429 ms (FindLiveObjects: 0.136191 ms CreateObjectMapping: 0.308699 ms MarkObjects: 3.906512 ms  DeleteObjects: 2.090631 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1618 -> priority: 1 
+  Thread -> id: 179c -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.877544 ms
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 5946.
+Total: 4.312716 ms (FindLiveObjects: 0.178824 ms CreateObjectMapping: 0.211194 ms MarkObjects: 3.442278 ms  DeleteObjects: 0.480418 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.610293 ms
+FSM not Preprocessed: Player : vel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 7617.
+Total: 17.442719 ms (FindLiveObjects: 0.275540 ms CreateObjectMapping: 0.219484 ms MarkObjects: 15.130628 ms  DeleteObjects: 1.816275 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: da4 -> priority: 1 
+  Thread -> id: bcc -> priority: 1 
+  Thread -> id: ab8 -> priority: 1 
+  Thread -> id: ba0 -> priority: 1 
+  Thread -> id: ca4 -> priority: 1 
+  Thread -> id: 11b8 -> priority: 1 

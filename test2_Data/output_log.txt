@@ -1,0 +1,224 @@
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 970M (ID=0x13d8)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   10.18.10.3496
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\ConditionalExpression.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\ConditionalExpression.dll into Unity Child Domain
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\PlayMaker.dll (this message is harmless)
+Loading C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\PlayMaker.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Eran\Documents\GitHub\SW-FebMiniLD\test2_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 3.954667 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 19dc -> priority: 1 
+  Thread -> id: 1044 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 7.673271 ms
+FSM not Preprocessed: Player : vel
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+
+Unloading 12 unused Assets to reduce memory usage. Loaded Objects now: 7507.
+Total: 12.773916 ms (FindLiveObjects: 0.308699 ms CreateObjectMapping: 0.444890 ms MarkObjects: 10.652495 ms  DeleteObjects: 1.362303 ms)
+
+Setting up 6 worker threads for Enlighten.
+  Thread -> id: 9d0 -> priority: 1 
+  Thread -> id: a24 -> priority: 1 
+  Thread -> id: 9e4 -> priority: 1 
+  Thread -> id: 1110 -> priority: 1 
+  Thread -> id: 8bc -> priority: 1 
+  Thread -> id: 9b4 -> priority: 1 
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: yellow(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: green(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: red(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+FSM not Preprocessed: colorpop(Clone) : FSM
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+AddEventHandlerComponent: PlayMakerFixedUpdate
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.900980 ms
+
+Unloading 167 unused Assets to reduce memory usage. Loaded Objects now: 5979.
+Total: 7.041661 ms (FindLiveObjects: 0.129874 ms CreateObjectMapping: 0.280276 ms MarkObjects: 4.109806 ms  DeleteObjects: 2.520518 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1a9c -> priority: 1 
+  Thread -> id: b00 -> priority: 1 
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.305853 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 5949.
+Total: 5.193018 ms (FindLiveObjects: 0.284619 ms CreateObjectMapping: 0.296461 ms MarkObjects: 4.140203 ms  DeleteObjects: 0.470549 ms)
+
